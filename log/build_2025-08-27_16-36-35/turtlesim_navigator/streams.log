@@ -1,0 +1,19 @@
+[1.880s] Invoking command in '/home/shimanto-khan/Desktop/task/build/turtlesim_navigator': PYTHONPATH=/home/shimanto-khan/Desktop/task/build/turtlesim_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build --no-deps symlink_data --force
+[2.617s] running develop
+[3.102s] running egg_info
+[3.152s] writing turtlesim_navigator.egg-info/PKG-INFO
+[3.152s] writing dependency_links to turtlesim_navigator.egg-info/dependency_links.txt
+[3.153s] writing entry points to turtlesim_navigator.egg-info/entry_points.txt
+[3.153s] writing requirements to turtlesim_navigator.egg-info/requires.txt
+[3.153s] writing top-level names to turtlesim_navigator.egg-info/top_level.txt
+[3.248s] reading manifest file 'turtlesim_navigator.egg-info/SOURCES.txt'
+[3.250s] writing manifest file 'turtlesim_navigator.egg-info/SOURCES.txt'
+[3.298s] running build_ext
+[3.299s] Creating /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim-navigator.egg-link (link to .)
+[3.301s] Installing simple_nav script to /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/turtlesim_navigator
+[3.301s] 
+[3.301s] Installed /home/shimanto-khan/Desktop/task/build/turtlesim_navigator
+[3.302s] running symlink_data
+[3.302s] symbolically linking /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/resource/turtlesim_navigator -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/share/ament_index/resource_index/packages
+[3.302s] symbolically linking /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/package.xml -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/share/turtlesim_navigator
+[3.356s] Invoked command in '/home/shimanto-khan/Desktop/task/build/turtlesim_navigator' returned '0': PYTHONPATH=/home/shimanto-khan/Desktop/task/build/turtlesim_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build --no-deps symlink_data --force

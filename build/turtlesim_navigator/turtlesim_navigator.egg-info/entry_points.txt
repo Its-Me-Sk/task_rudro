@@ -1,0 +1,2 @@
+[console_scripts]
+simple_nav = turtlesim_navigator.simple_nav:main

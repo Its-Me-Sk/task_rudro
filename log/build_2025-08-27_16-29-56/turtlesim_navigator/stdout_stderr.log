@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/turtlesim_navigator/turtlesim_navigator.egg-info
+writing ../../build/turtlesim_navigator/turtlesim_navigator.egg-info/PKG-INFO
+writing dependency_links to ../../build/turtlesim_navigator/turtlesim_navigator.egg-info/dependency_links.txt
+writing entry points to ../../build/turtlesim_navigator/turtlesim_navigator.egg-info/entry_points.txt
+writing requirements to ../../build/turtlesim_navigator/turtlesim_navigator.egg-info/requires.txt
+writing top-level names to ../../build/turtlesim_navigator/turtlesim_navigator.egg-info/top_level.txt
+writing manifest file '../../build/turtlesim_navigator/turtlesim_navigator.egg-info/SOURCES.txt'
+reading manifest file '../../build/turtlesim_navigator/turtlesim_navigator.egg-info/SOURCES.txt'
+writing manifest file '../../build/turtlesim_navigator/turtlesim_navigator.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build
+creating /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build/lib
+creating /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build/lib/turtlesim_navigator
+copying turtlesim_navigator/__init__.py -> /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build/lib/turtlesim_navigator
+copying turtlesim_navigator/simple_nav.py -> /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build/lib/turtlesim_navigator
+running install
+running install_lib
+creating /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator
+copying /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build/lib/turtlesim_navigator/__init__.py -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator
+copying /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build/lib/turtlesim_navigator/simple_nav.py -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator
+byte-compiling /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator/simple_nav.py to simple_nav.cpython-312.pyc
+running install_data
+creating /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/share/ament_index
+creating /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/share/ament_index/resource_index
+creating /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/share/ament_index/resource_index/packages
+copying resource/turtlesim_navigator -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/share/ament_index/resource_index/packages
+copying package.xml -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/share/turtlesim_navigator
+running install_egg_info
+Copying ../../build/turtlesim_navigator/turtlesim_navigator.egg-info to /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator-0.0.0-py3.12.egg-info
+running install_scripts
+Installing simple_nav script to /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/turtlesim_navigator
+writing list of installed files to '/home/shimanto-khan/Desktop/task/build/turtlesim_navigator/install.log'

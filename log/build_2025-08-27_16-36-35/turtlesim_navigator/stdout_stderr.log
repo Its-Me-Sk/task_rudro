@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing turtlesim_navigator.egg-info/PKG-INFO
+writing dependency_links to turtlesim_navigator.egg-info/dependency_links.txt
+writing entry points to turtlesim_navigator.egg-info/entry_points.txt
+writing requirements to turtlesim_navigator.egg-info/requires.txt
+writing top-level names to turtlesim_navigator.egg-info/top_level.txt
+reading manifest file 'turtlesim_navigator.egg-info/SOURCES.txt'
+writing manifest file 'turtlesim_navigator.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim-navigator.egg-link (link to .)
+Installing simple_nav script to /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/turtlesim_navigator
+
+Installed /home/shimanto-khan/Desktop/task/build/turtlesim_navigator
+running symlink_data
+symbolically linking /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/resource/turtlesim_navigator -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/share/ament_index/resource_index/packages
+symbolically linking /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/package.xml -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/share/turtlesim_navigator
