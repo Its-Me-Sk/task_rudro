@@ -1,0 +1,80 @@
+[0.000000] (-) TimerEvent: {}
+[0.000243] (turtlesim_navigator) JobQueued: {'identifier': 'turtlesim_navigator', 'dependencies': OrderedDict()}
+[0.000312] (turtlesim_navigator) JobStarted: {'identifier': 'turtlesim_navigator'}
+[0.098749] (-) TimerEvent: {}
+[0.199170] (-) TimerEvent: {}
+[0.299526] (-) TimerEvent: {}
+[0.399840] (-) TimerEvent: {}
+[0.500168] (-) TimerEvent: {}
+[0.600521] (-) TimerEvent: {}
+[0.700832] (-) TimerEvent: {}
+[0.801181] (-) TimerEvent: {}
+[0.901532] (-) TimerEvent: {}
+[1.001836] (-) TimerEvent: {}
+[1.102179] (-) TimerEvent: {}
+[1.202527] (-) TimerEvent: {}
+[1.302855] (-) TimerEvent: {}
+[1.403238] (-) TimerEvent: {}
+[1.503579] (-) TimerEvent: {}
+[1.603941] (-) TimerEvent: {}
+[1.704290] (-) TimerEvent: {}
+[1.804670] (-) TimerEvent: {}
+[1.905048] (-) TimerEvent: {}
+[1.940580] (turtlesim_navigator) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'develop', '--uninstall', '--editable', '--build-directory', '/home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build'], 'cwd': '/home/shimanto-khan/Desktop/task/build/turtlesim_navigator', 'env': {'USER': 'shimanto-khan', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'OLDPWD': '/home/shimanto-khan/Desktop/task/src', 'HOME': '/home/shimanto-khan', 'LESS': '-R', 'DESKTOP_SESSION': 'ubuntu', 'ZSH': '/home/shimanto-khan/.oh-my-zsh', 'LSCOLORS': 'Gxfxcxdxbxegedabagacad', 'GTK_MODULES': 'gail:atk-bridge:appmenu-gtk-module', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'PAGER': 'less', 'ROS_PYTHON_VERSION': '3', 'MANAGERPID': '1384', 'SYSTEMD_EXEC_PID': '1881', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'GSM_SKIP_SSH_AGENT_WORKAROUND': 'true', 'COLORTERM': 'truecolor', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '4089', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator25ef4b219e3b005583550f2b0f9f990c3', 'GNOME_KEYRING_CONTROL': '/run/user/1000/keyring', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'jazzy', 'COLCON_PREFIX_PATH': '/home/shimanto-khan/Desktop/Ros2Task/install', 'LOGNAME': 'shimanto-khan', '_': '/usr/bin/colcon', 'JOURNAL_STREAM': '9:17753', 'MEMORY_PRESSURE_WATCH': '/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/org.gnome.SettingsDaemon.MediaKeys.service/memory.pressure', 'XDG_SESSION_CLASS': 'user', 'ROS_VERSION': '2', 'USERNAME': 'shimanto-khan', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'PATH': '/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/shimanto-khan:@/tmp/.ICE-unix/1568,unix/shimanto-khan:/tmp/.ICE-unix/1568', 'INVOCATION_ID': 'e399d96918b64e4e9994831582ae09fc', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XMODIFIERS': '@im=ibus', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.YU5CB3', 'LS_COLORS': 'no=00:fi=00:di=01;34:ln=00;36:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=41;33;01:ex=00;32:*.cmd=00;32:*.exe=01;32:*.com=01;32:*.bat=01;32:*.btm=01;32:*.dll=01;32:*.tar=00;31:*.tbz=00;31:*.tgz=00;31:*.rpm=00;31:*.deb=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.lzma=00;31:*.zip=00;31:*.zoo=00;31:*.z=00;31:*.Z=00;31:*.gz=00;31:*.bz2=00;31:*.tb2=00;31:*.tz2=00;31:*.tbz2=00;31:*.avi=01;35:*.bmp=01;35:*.fli=01;35:*.gif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mng=01;35:*.mov=01;35:*.mpg=01;35:*.pcx=01;35:*.pbm=01;35:*.pgm=01;35:*.png=01;35:*.ppm=01;35:*.tga=01;35:*.tif=01;35:*.xbm=01;35:*.xpm=01;35:*.dl=01;35:*.gl=01;35:*.wmv=01;35:*.aiff=00;32:*.au=00;32:*.mid=00;32:*.mp3=00;32:*.ogg=00;32:*.voc=00;32:*.wav=00;32:', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/shimanto-khan/Desktop/Ros2Task/install/sk:/opt/ros/jazzy', 'TERMINATOR_UUID': 'urn:uuid:724988c8-ca46-407e-8b07-7eb13201309f', 'SHELL': '/usr/bin/zsh', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'QT_IM_MODULE': 'ibus', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'LC_ALL': 'en_US.UTF-8', 'PWD': '/home/shimanto-khan/Desktop/task/build/turtlesim_navigator', 'XDG_DATA_DIRS': '/home/shimanto-khan/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'QTWEBENGINE_DICTIONARIES_PATH': '/usr/share/hunspell-bdic/', 'PYTHONPATH': '/home/shimanto-khan/Desktop/task/build/turtlesim_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages:/home/shimanto-khan/Desktop/Ros2Task/install/sk/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages', 'COLCON': '1', 'MEMORY_PRESSURE_WRITE': 'c29tZSAyMDAwMDAgMjAwMDAwMAA=', 'VTE_VERSION': '7600', 'CMAKE_PREFIX_PATH': '/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor'}, 'shell': False}
+[2.005215] (-) TimerEvent: {}
+[2.105575] (-) TimerEvent: {}
+[2.205949] (-) TimerEvent: {}
+[2.306314] (-) TimerEvent: {}
+[2.406709] (-) TimerEvent: {}
+[2.507117] (-) TimerEvent: {}
+[2.601275] (turtlesim_navigator) StdoutLine: {'line': b'running develop\n'}
+[2.607250] (-) TimerEvent: {}
+[2.707581] (-) TimerEvent: {}
+[2.807930] (-) TimerEvent: {}
+[2.908283] (-) TimerEvent: {}
+[3.008661] (-) TimerEvent: {}
+[3.075472] (turtlesim_navigator) StdoutLine: {'line': b'Removing /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim-navigator.egg-link (link to .)\n'}
+[3.108787] (-) TimerEvent: {}
+[3.126572] (turtlesim_navigator) CommandEnded: {'returncode': 0}
+[3.128693] (turtlesim_navigator) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/turtlesim_navigator', 'build', '--build-base', '/home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build', 'install', '--record', '/home/shimanto-khan/Desktop/task/build/turtlesim_navigator/install.log', '--single-version-externally-managed', 'install_data', '--force'], 'cwd': '/home/shimanto-khan/Desktop/task/src/turtlesim_navigator', 'env': {'USER': 'shimanto-khan', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/jazzy/opt/rviz_ogre_vendor/lib:/opt/ros/jazzy/lib/x86_64-linux-gnu:/opt/ros/jazzy/opt/gz_math_vendor/lib:/opt/ros/jazzy/opt/gz_utils_vendor/lib:/opt/ros/jazzy/opt/gz_cmake_vendor/lib:/opt/ros/jazzy/lib', 'OLDPWD': '/home/shimanto-khan/Desktop/task/src', 'HOME': '/home/shimanto-khan', 'LESS': '-R', 'DESKTOP_SESSION': 'ubuntu', 'ZSH': '/home/shimanto-khan/.oh-my-zsh', 'LSCOLORS': 'Gxfxcxdxbxegedabagacad', 'GTK_MODULES': 'gail:atk-bridge:appmenu-gtk-module', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'PAGER': 'less', 'ROS_PYTHON_VERSION': '3', 'MANAGERPID': '1384', 'SYSTEMD_EXEC_PID': '1881', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'GSM_SKIP_SSH_AGENT_WORKAROUND': 'true', 'COLORTERM': 'truecolor', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '4089', 'TERMINATOR_DBUS_NAME': 'net.tenshu.Terminator25ef4b219e3b005583550f2b0f9f990c3', 'GNOME_KEYRING_CONTROL': '/run/user/1000/keyring', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'jazzy', 'COLCON_PREFIX_PATH': '/home/shimanto-khan/Desktop/Ros2Task/install', 'LOGNAME': 'shimanto-khan', '_': '/usr/bin/colcon', 'JOURNAL_STREAM': '9:17753', 'MEMORY_PRESSURE_WATCH': '/sys/fs/cgroup/user.slice/user-1000.slice/user@1000.service/session.slice/org.gnome.SettingsDaemon.MediaKeys.service/memory.pressure', 'XDG_SESSION_CLASS': 'user', 'ROS_VERSION': '2', 'USERNAME': 'shimanto-khan', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'PATH': '/opt/ros/jazzy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/shimanto-khan:@/tmp/.ICE-unix/1568,unix/shimanto-khan:/tmp/.ICE-unix/1568', 'INVOCATION_ID': 'e399d96918b64e4e9994831582ae09fc', 'XDG_MENU_PREFIX': 'gnome-', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'TERMINATOR_DBUS_PATH': '/net/tenshu/Terminator2', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XMODIFIERS': '@im=ibus', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.YU5CB3', 'LS_COLORS': 'no=00:fi=00:di=01;34:ln=00;36:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=41;33;01:ex=00;32:*.cmd=00;32:*.exe=01;32:*.com=01;32:*.bat=01;32:*.btm=01;32:*.dll=01;32:*.tar=00;31:*.tbz=00;31:*.tgz=00;31:*.rpm=00;31:*.deb=00;31:*.arj=00;31:*.taz=00;31:*.lzh=00;31:*.lzma=00;31:*.zip=00;31:*.zoo=00;31:*.z=00;31:*.Z=00;31:*.gz=00;31:*.bz2=00;31:*.tb2=00;31:*.tz2=00;31:*.tbz2=00;31:*.avi=01;35:*.bmp=01;35:*.fli=01;35:*.gif=01;35:*.jpg=01;35:*.jpeg=01;35:*.mng=01;35:*.mov=01;35:*.mpg=01;35:*.pcx=01;35:*.pbm=01;35:*.pgm=01;35:*.png=01;35:*.ppm=01;35:*.tga=01;35:*.tif=01;35:*.xbm=01;35:*.xpm=01;35:*.dl=01;35:*.gl=01;35:*.wmv=01;35:*.aiff=00;32:*.au=00;32:*.mid=00;32:*.mp3=00;32:*.ogg=00;32:*.voc=00;32:*.wav=00;32:', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/home/shimanto-khan/Desktop/Ros2Task/install/sk:/opt/ros/jazzy', 'TERMINATOR_UUID': 'urn:uuid:724988c8-ca46-407e-8b07-7eb13201309f', 'SHELL': '/usr/bin/zsh', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'QT_IM_MODULE': 'ibus', 'ROS_AUTOMATIC_DISCOVERY_RANGE': 'SUBNET', 'LC_ALL': 'en_US.UTF-8', 'PWD': '/home/shimanto-khan/Desktop/task/build/turtlesim_navigator', 'XDG_DATA_DIRS': '/home/shimanto-khan/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'QTWEBENGINE_DICTIONARIES_PATH': '/usr/share/hunspell-bdic/', 'PYTHONPATH': '/home/shimanto-khan/Desktop/task/build/turtlesim_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages:/home/shimanto-khan/Desktop/Ros2Task/install/sk/lib/python3.12/site-packages:/opt/ros/jazzy/lib/python3.12/site-packages', 'COLCON': '1', 'MEMORY_PRESSURE_WRITE': 'c29tZSAyMDAwMDAgMjAwMDAwMAA=', 'VTE_VERSION': '7600', 'CMAKE_PREFIX_PATH': '/opt/ros/jazzy/opt/gz_math_vendor:/opt/ros/jazzy/opt/gz_utils_vendor:/opt/ros/jazzy/opt/gz_cmake_vendor'}, 'shell': False}
+[3.208941] (-) TimerEvent: {}
+[3.309340] (-) TimerEvent: {}
+[3.409750] (-) TimerEvent: {}
+[3.510120] (-) TimerEvent: {}
+[3.610477] (-) TimerEvent: {}
+[3.710831] (-) TimerEvent: {}
+[3.716417] (turtlesim_navigator) StdoutLine: {'line': b'running egg_info\n'}
+[3.763035] (turtlesim_navigator) StdoutLine: {'line': b'writing ../../build/turtlesim_navigator/turtlesim_navigator.egg-info/PKG-INFO\n'}
+[3.763476] (turtlesim_navigator) StdoutLine: {'line': b'writing dependency_links to ../../build/turtlesim_navigator/turtlesim_navigator.egg-info/dependency_links.txt\n'}
+[3.763838] (turtlesim_navigator) StdoutLine: {'line': b'writing entry points to ../../build/turtlesim_navigator/turtlesim_navigator.egg-info/entry_points.txt\n'}
+[3.764124] (turtlesim_navigator) StdoutLine: {'line': b'writing requirements to ../../build/turtlesim_navigator/turtlesim_navigator.egg-info/requires.txt\n'}
+[3.764392] (turtlesim_navigator) StdoutLine: {'line': b'writing top-level names to ../../build/turtlesim_navigator/turtlesim_navigator.egg-info/top_level.txt\n'}
+[3.810919] (-) TimerEvent: {}
+[3.858787] (turtlesim_navigator) StdoutLine: {'line': b"reading manifest file '../../build/turtlesim_navigator/turtlesim_navigator.egg-info/SOURCES.txt'\n"}
+[3.860498] (turtlesim_navigator) StdoutLine: {'line': b"writing manifest file '../../build/turtlesim_navigator/turtlesim_navigator.egg-info/SOURCES.txt'\n"}
+[3.860856] (turtlesim_navigator) StdoutLine: {'line': b'running build\n'}
+[3.861065] (turtlesim_navigator) StdoutLine: {'line': b'running build_py\n'}
+[3.861324] (turtlesim_navigator) StdoutLine: {'line': b'copying turtlesim_navigator/simple_nav.py -> /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build/lib/turtlesim_navigator\n'}
+[3.862146] (turtlesim_navigator) StdoutLine: {'line': b'running install\n'}
+[3.874836] (turtlesim_navigator) StdoutLine: {'line': b'running install_lib\n'}
+[3.911055] (-) TimerEvent: {}
+[3.921961] (turtlesim_navigator) StdoutLine: {'line': b'creating /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator\n'}
+[3.922419] (turtlesim_navigator) StdoutLine: {'line': b'copying /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build/lib/turtlesim_navigator/__init__.py -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator\n'}
+[3.922734] (turtlesim_navigator) StdoutLine: {'line': b'copying /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build/lib/turtlesim_navigator/simple_nav.py -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator\n'}
+[3.923255] (turtlesim_navigator) StdoutLine: {'line': b'byte-compiling /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator/__init__.py to __init__.cpython-312.pyc\n'}
+[3.923637] (turtlesim_navigator) StdoutLine: {'line': b'byte-compiling /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator/simple_nav.py to simple_nav.cpython-312.pyc\n'}
+[3.924909] (turtlesim_navigator) StdoutLine: {'line': b'running install_data\n'}
+[3.925231] (turtlesim_navigator) StdoutLine: {'line': b'copying resource/turtlesim_navigator -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/share/ament_index/resource_index/packages\n'}
+[3.925510] (turtlesim_navigator) StdoutLine: {'line': b'copying package.xml -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/share/turtlesim_navigator\n'}
+[3.925743] (turtlesim_navigator) StdoutLine: {'line': b'running install_egg_info\n'}
+[3.975053] (turtlesim_navigator) StdoutLine: {'line': b'Copying ../../build/turtlesim_navigator/turtlesim_navigator.egg-info to /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator-0.0.0-py3.12.egg-info\n'}
+[3.976927] (turtlesim_navigator) StdoutLine: {'line': b'running install_scripts\n'}
+[4.011195] (-) TimerEvent: {}
+[4.111516] (-) TimerEvent: {}
+[4.211938] (-) TimerEvent: {}
+[4.275288] (turtlesim_navigator) StdoutLine: {'line': b'Installing simple_nav script to /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/turtlesim_navigator\n'}
+[4.276050] (turtlesim_navigator) StdoutLine: {'line': b"writing list of installed files to '/home/shimanto-khan/Desktop/task/build/turtlesim_navigator/install.log'\n"}
+[4.312114] (-) TimerEvent: {}
+[4.322142] (turtlesim_navigator) CommandEnded: {'returncode': 0}
+[4.345953] (turtlesim_navigator) JobEnded: {'identifier': 'turtlesim_navigator', 'rc': 0}
+[4.347217] (-) EventReactorShutdown: {}

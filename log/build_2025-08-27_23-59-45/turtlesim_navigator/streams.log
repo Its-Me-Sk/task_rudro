@@ -1,0 +1,32 @@
+[1.941s] Invoking command in '/home/shimanto-khan/Desktop/task/build/turtlesim_navigator': PYTHONPATH=/home/shimanto-khan/Desktop/task/build/turtlesim_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build
+[2.601s] running develop
+[3.075s] Removing /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim-navigator.egg-link (link to .)
+[3.127s] Invoked command in '/home/shimanto-khan/Desktop/task/build/turtlesim_navigator' returned '0': PYTHONPATH=/home/shimanto-khan/Desktop/task/build/turtlesim_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build
+[3.129s] Invoking command in '/home/shimanto-khan/Desktop/task/src/turtlesim_navigator': PYTHONPATH=/home/shimanto-khan/Desktop/task/build/turtlesim_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_navigator build --build-base /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build install --record /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/install.log --single-version-externally-managed install_data --force
+[3.716s] running egg_info
+[3.763s] writing ../../build/turtlesim_navigator/turtlesim_navigator.egg-info/PKG-INFO
+[3.763s] writing dependency_links to ../../build/turtlesim_navigator/turtlesim_navigator.egg-info/dependency_links.txt
+[3.764s] writing entry points to ../../build/turtlesim_navigator/turtlesim_navigator.egg-info/entry_points.txt
+[3.764s] writing requirements to ../../build/turtlesim_navigator/turtlesim_navigator.egg-info/requires.txt
+[3.764s] writing top-level names to ../../build/turtlesim_navigator/turtlesim_navigator.egg-info/top_level.txt
+[3.859s] reading manifest file '../../build/turtlesim_navigator/turtlesim_navigator.egg-info/SOURCES.txt'
+[3.860s] writing manifest file '../../build/turtlesim_navigator/turtlesim_navigator.egg-info/SOURCES.txt'
+[3.861s] running build
+[3.861s] running build_py
+[3.861s] copying turtlesim_navigator/simple_nav.py -> /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build/lib/turtlesim_navigator
+[3.862s] running install
+[3.875s] running install_lib
+[3.922s] creating /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator
+[3.922s] copying /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build/lib/turtlesim_navigator/__init__.py -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator
+[3.923s] copying /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build/lib/turtlesim_navigator/simple_nav.py -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator
+[3.923s] byte-compiling /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator/__init__.py to __init__.cpython-312.pyc
+[3.923s] byte-compiling /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator/simple_nav.py to simple_nav.cpython-312.pyc
+[3.925s] running install_data
+[3.925s] copying resource/turtlesim_navigator -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/share/ament_index/resource_index/packages
+[3.925s] copying package.xml -> /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/share/turtlesim_navigator
+[3.926s] running install_egg_info
+[3.975s] Copying ../../build/turtlesim_navigator/turtlesim_navigator.egg-info to /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages/turtlesim_navigator-0.0.0-py3.12.egg-info
+[3.977s] running install_scripts
+[4.275s] Installing simple_nav script to /home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/turtlesim_navigator
+[4.276s] writing list of installed files to '/home/shimanto-khan/Desktop/task/build/turtlesim_navigator/install.log'
+[4.322s] Invoked command in '/home/shimanto-khan/Desktop/task/src/turtlesim_navigator' returned '0': PYTHONPATH=/home/shimanto-khan/Desktop/task/build/turtlesim_navigator/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/shimanto-khan/Desktop/task/install/turtlesim_navigator/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/turtlesim_navigator build --build-base /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/build install --record /home/shimanto-khan/Desktop/task/build/turtlesim_navigator/install.log --single-version-externally-managed install_data --force

@@ -1,1 +1,0 @@
-/home/shimanto-khan/Desktop/task/src/turtlesim_navigator/setup.py
